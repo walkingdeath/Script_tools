@@ -1,0 +1,16 @@
+# -*- coding: UTF-8 -*-
+
+# 打开一个文件
+fo = open(r"F:\qgk\111.txt", "r")
+str = fo.read(10);
+print("读取的字符串是 : ", str)
+# 关闭打开的文件
+fo.close()
+print(str)
+text = '10'
+try:
+    assert  text in str
+except:
+    print('数值不再txt中')
+finally:
+    print('数值和txt中一致')

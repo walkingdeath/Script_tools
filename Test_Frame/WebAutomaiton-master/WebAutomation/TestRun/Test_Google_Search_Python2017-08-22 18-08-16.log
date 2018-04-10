@@ -1,0 +1,14 @@
+2017-08-22 18:08:16,722 [line:23] Open Base sitehttp://172.16.34.150:81/#/login
+2017-08-22 18:08:16,723 [line:478] POST http://127.0.0.1:35153/session/8111221f8f69ddf1dc7aed76787f0cbd/url {"url": "http://172.16.34.150:81/#/login", "sessionId": "8111221f8f69ddf1dc7aed76787f0cbd"}
+2017-08-22 18:08:20,749 [line:565] Finished Request
+2017-08-22 18:08:20,749 [line:478] POST http://127.0.0.1:35153/session/8111221f8f69ddf1dc7aed76787f0cbd/window/current/maximize {"windowHandle": "current", "sessionId": "8111221f8f69ddf1dc7aed76787f0cbd"}
+2017-08-22 18:08:26,768 [line:565] Finished Request
+2017-08-22 18:08:30,769 [line:478] GET http://127.0.0.1:35153/session/8111221f8f69ddf1dc7aed76787f0cbd/title {"sessionId": "8111221f8f69ddf1dc7aed76787f0cbd"}
+2017-08-22 18:08:30,774 [line:565] Finished Request
+2017-08-22 18:08:30,774 [line:23] Got error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=60.0.3112.101)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2017-08-22 18:08:30,783 [line:478] DELETE http://127.0.0.1:35153/session/8111221f8f69ddf1dc7aed76787f0cbd/window {"sessionId": "8111221f8f69ddf1dc7aed76787f0cbd"}
+2017-08-22 18:08:32,808 [line:565] Finished Request

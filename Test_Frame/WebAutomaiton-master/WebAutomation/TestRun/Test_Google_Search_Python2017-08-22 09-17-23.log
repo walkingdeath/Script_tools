@@ -1,0 +1,10 @@
+2017-08-22 09:17:23,345 [line:23] Open Base sitehttp://172.16.34.150:81/#/login
+2017-08-22 09:17:23,345 [line:478] POST http://127.0.0.1:1783/session/85e814fc9c3aba203fdb79a1f7084a44/url {"url": "http://172.16.34.150:81/#/login", "sessionId": "85e814fc9c3aba203fdb79a1f7084a44"}
+2017-08-22 09:17:28,010 [line:565] Finished Request
+2017-08-22 09:17:28,011 [line:478] POST http://127.0.0.1:1783/session/85e814fc9c3aba203fdb79a1f7084a44/window/current/maximize {"windowHandle": "current", "sessionId": "85e814fc9c3aba203fdb79a1f7084a44"}
+2017-08-22 09:17:29,140 [line:565] Finished Request
+2017-08-22 09:17:33,162 [line:478] GET http://127.0.0.1:1783/session/85e814fc9c3aba203fdb79a1f7084a44/title {"sessionId": "85e814fc9c3aba203fdb79a1f7084a44"}
+2017-08-22 09:17:33,169 [line:565] Finished Request
+2017-08-22 09:17:33,169 [line:23] Got error: 
+2017-08-22 09:17:33,174 [line:478] DELETE http://127.0.0.1:1783/session/85e814fc9c3aba203fdb79a1f7084a44/window {"sessionId": "85e814fc9c3aba203fdb79a1f7084a44"}
+2017-08-22 09:17:35,483 [line:565] Finished Request
