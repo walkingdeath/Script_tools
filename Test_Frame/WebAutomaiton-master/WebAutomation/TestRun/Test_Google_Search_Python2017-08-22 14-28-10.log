@@ -1,8 +1,0 @@
-2017-08-22 14:28:10,515 [line:23] Open Base sitehttp://172.16.34.150:81/#/login
-2017-08-22 14:28:10,516 [line:478] POST http://127.0.0.1:10743/session/4525171eefb15e63e3256fbbe515ae36/url {"url": "http://172.16.34.150:81/#/login", "sessionId": "4525171eefb15e63e3256fbbe515ae36"}
-2017-08-22 14:28:13,857 [line:565] Finished Request
-2017-08-22 14:28:13,857 [line:478] POST http://127.0.0.1:10743/session/4525171eefb15e63e3256fbbe515ae36/window/current/maximize {"windowHandle": "current", "sessionId": "4525171eefb15e63e3256fbbe515ae36"}
-2017-08-22 14:28:14,988 [line:565] Finished Request
-2017-08-22 14:28:16,992 [line:23] Got error: must be str, not tuple
-2017-08-22 14:28:17,002 [line:478] DELETE http://127.0.0.1:10743/session/4525171eefb15e63e3256fbbe515ae36/window {"sessionId": "4525171eefb15e63e3256fbbe515ae36"}
-2017-08-22 14:28:17,068 [line:565] Finished Request
