@@ -74,7 +74,6 @@ if __name__ == "__main__":
     # sendalarm_to_group()
     # sum_exception_order()
     while True:
-
         sendalarm_or_not()
         print(u'每隔20分钟检测异常订单，当前时间---%s' % (time.strftime("%H:%M:%S")))
         time.sleep(1200)
